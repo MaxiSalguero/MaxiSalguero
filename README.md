@@ -29,10 +29,7 @@ Estoy entusiasmado por aportar mis conocimientos y habilidades a proyectos innov
   
 </div>  
 
-  
-
 <br/>  
-
 
 ## <div align="center"> + Sobre Mi!!  
 <table><tr><td valign="top" width="50%">
@@ -45,12 +42,12 @@ Estoy entusiasmado por aportar mis conocimientos y habilidades a proyectos innov
 
 </td><td valign="top" width="50%">
 
-- 🛠 Interesado en:
-Backend  
+- 🛠 Interesado en: <br>
+  Frontend <span style="border-left: 1px solid black; margin-left: 10px; padding-left: 10px;">Backend</span>
   
 
-- ⭐ Lo que me gusta hacer:
-Me gusta liderar, ser organizado y trabajar en equipo !!
+- ⭐ Lo que me gusta hacer: <br>
+  Me gusta liderar, ser organizado y trabajar en equipo !!
   
 
 
@@ -70,7 +67,7 @@ Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguient
 - **Nest.js**
 - **Node.js**
 - **PostgreSQL**
-- **TypeOrm  **
+- **TypeOrm**
 
 
 </td><td valign="top" width="50%">
@@ -85,7 +82,7 @@ Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguient
 - **Express**
 - **Node.js**
 - **PostgreSQL**
-- **TypeOrm  **
+- **TypeOrm**
 
 Frontend
 
@@ -126,5 +123,3 @@ Frontend
 ![Profile views counter](https://komarev.com/ghpvc/?username=MaxiSalguero&&style=flat-square)  
 
 <br />
-
-
