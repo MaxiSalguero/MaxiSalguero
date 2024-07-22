@@ -55,53 +55,52 @@ Estoy entusiasmado por aportar mis conocimientos y habilidades a proyectos innov
 <br/>  
 
  ## <div align="center"> Proyectos Principales
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      [Ecommerce](https://github.com/pi-rym/PM4-MaxiSalguero)
 
+      Es un proyecto desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologías:
 
-   [Ecommerce](https://github.com/pi-rym/PM4-MaxiSalguero)
+      - **Typescript**
+      - **Nest.js**
+      - **Node.js**
+      - **PostgreSQL**
+      - **TypeOrm**
+    </td>
+    <td valign="top" width="50%">
+      [TurnoBanco](https://github.com/pi-rym/PM3-MaxiSalguero)
 
-Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologias 
+      Es un proyecto desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologías:
 
-- **Typescript**
-- **Nest.js**
-- **Node.js**
-- **PostgreSQL**
-- **TypeOrm**
-
-
-</td><td valign="top" width="50%">
-  
-[TurnoBanco](https://github.com/pi-rym/PM3-MaxiSalguero)
-
-Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologias 
-
-<div style="display: flex; align-items: center;">
-    <div style="width: 50%; text-align: center;">
-        <strong>Backend</strong>
-        <ul>
-            <li>Typescript</li>
-            <li>Express</li>
-            <li>Node.js</li>
-            <li>PostgreSQL</li>
-            <li>TypeOrm</li>
-        </ul>
-    </div>
-    <div style="width: 0; border-left: 2px solid black; height: 100px; margin: 0 20px;"></div>
-    <div style="width: 50%; text-align: center;">
-        <strong>Frontend</strong>
-        <ul>
-            <li>React</li>
-            <li>Redux</li>
-            <li>Bootstrap</li>
-            <li>JavaScript</li>
-            <li>HTML5</li>
-            <li>CSS3</li>
-        </ul>
-    </div>
-</div>
-  
-
-</td></tr></table>
+      <table>
+        <tr>
+          <td>
+            **Backend**
+            <ul>
+              <li>Typescript</li>
+              <li>Express</li>
+              <li>Node.js</li>
+              <li>PostgreSQL</li>
+              <li>TypeOrm</li>
+            </ul>
+          </td>
+          <td>
+            **Frontend**
+            <ul>
+              <li>React</li>
+              <li>Redux</li>
+              <li>Bootstrap</li>
+              <li>JavaScript</li>
+              <li>HTML5</li>
+              <li>CSS3</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <br />
 
 
