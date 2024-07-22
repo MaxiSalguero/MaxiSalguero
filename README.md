@@ -55,52 +55,43 @@ Estoy entusiasmado por aportar mis conocimientos y habilidades a proyectos innov
 <br/>  
 
  ## <div align="center"> Proyectos Principales
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      [Ecommerce](https://github.com/pi-rym/PM4-MaxiSalguero)
+<table><tr><td valign="top" width="50%">
 
-      Es un proyecto desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologías:
+   [Ecommerce](https://github.com/pi-rym/PM4-MaxiSalguero)
 
-      - **Typescript**
-      - **Nest.js**
-      - **Node.js**
-      - **PostgreSQL**
-      - **TypeOrm**
-    </td>
-    <td valign="top" width="50%">
-      [TurnoBanco](https://github.com/pi-rym/PM3-MaxiSalguero)
+Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologias 
 
-      Es un proyecto desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologías:
+- **Typescript**
+- **Nest.js**
+- **Node.js**
+- **PostgreSQL**
+- **TypeOrm**
 
-      <table>
-        <tr>
-          <td>
-            **Backend**
-            <ul>
-              <li>Typescript</li>
-              <li>Express</li>
-              <li>Node.js</li>
-              <li>PostgreSQL</li>
-              <li>TypeOrm</li>
-            </ul>
-          </td>
-          <td>
-            **Frontend**
-            <ul>
-              <li>React</li>
-              <li>Redux</li>
-              <li>Bootstrap</li>
-              <li>JavaScript</li>
-              <li>HTML5</li>
-              <li>CSS3</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+
+</td><td valign="top" width="50%">
+  
+[TurnoBanco](https://github.com/pi-rym/PM3-MaxiSalguero)
+
+Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologias 
+
+Backend                             
+
+- **Typescript**
+- **Express**
+- **Node.js**
+- **PostgreSQL**
+- **TypeOrm**
+
+Frontend
+
+- **React**
+- **Redux**
+- **Boostrap**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+  
+</td></tr></table>
 <br />
 
 
