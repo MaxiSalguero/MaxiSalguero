@@ -74,22 +74,11 @@ Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguient
 
 Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologias 
 
-Backend                             
+**Frontend**
+- React.js | Redux | Bootstrap | JavaScript | HTML5 | CSS3 |
 
-- **Typescript**
-- **Express**
-- **Node.js**
-- **PostgreSQL**
-- **TypeOrm**
-
-Frontend
-
-- **React**
-- **Redux**
-- **Boostrap**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
+**Backend**
+- Node.js | Express.js | PostgreSQL | TypeOrm | Typescript |                        
   
 </td></tr></table>
 <br />
