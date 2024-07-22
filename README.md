@@ -4,7 +4,7 @@
 ## <div align="center">Hola 👋, Soy Maximiliano!</div>  
 <div>
   <img src="https://res.cloudinary.com/dd1yaduhv/image/upload/v1721654583/Programador_dkmq5z.jpg" 
-       height="350" width="800" />
+       height="250" width="800" />
 </div>  
 
 <br />
