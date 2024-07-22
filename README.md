@@ -2,11 +2,13 @@
 
 
 ## <div align="center">Hola 👋, Soy Maximiliano!</div>  
-<div align="center">
+<div>
   <img src="https://res.cloudinary.com/dd1yaduhv/image/upload/v1721654583/Programador_dkmq5z.jpg" 
-       height="300" width="800" />
+       height="350" width="800" />
 </div>  
-  
+
+<br />
+
 Soy un desarrollador Backend con residencia en Salta, Argentina. Estoy buscando nuevas oportunidades laborales que me permitan continuar mi crecimiento profesional.
 
 La flexibilidad y el aprendizaje constante son esenciales en mi campo, por lo que siempre busco maneras de mejorar mis habilidades técnicas y de servicio. 💻
