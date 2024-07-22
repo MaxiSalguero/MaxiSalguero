@@ -1,10 +1,10 @@
-## Bienvenido a mi perfil!
+## ¡Bienvenido a mi perfil!
 
 
 ## <div align="center">Hola 👋, Soy Maximiliano!</div>  
 <div>
   <img src="https://res.cloudinary.com/dd1yaduhv/image/upload/v1721654583/Programador_dkmq5z.jpg" 
-       height="250" width="800" />
+       height="260" width="800" />
 </div>  
 
 <br />
@@ -42,8 +42,7 @@ Estoy entusiasmado por aportar mis conocimientos y habilidades a proyectos innov
 
 </td><td valign="top" width="50%">
 
-- 🛠 Interesado en: <br>
-  Frontend <span style="border-left: 1px solid black; margin-left: 10px; padding-left: 10px;">Backend</span>
+- 🛠 Interesado en: Backend
   
 
 - ⭐ Lo que me gusta hacer: <br>
@@ -76,22 +75,30 @@ Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguient
 
 Es un proyecto de un desarrollado para el bootcamp de SoyHenry, con las siguientes tecnologias 
 
-   Backend                             
-
-- **Typescript**
-- **Express**
-- **Node.js**
-- **PostgreSQL**
-- **TypeOrm**
-
-Frontend
-
-- **React**
-- **Redux**
-- **Boostrap**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
+<div style="display: flex; align-items: center;">
+    <div style="width: 50%; text-align: center;">
+        <strong>Backend</strong>
+        <ul>
+            <li>Typescript</li>
+            <li>Express</li>
+            <li>Node.js</li>
+            <li>PostgreSQL</li>
+            <li>TypeOrm</li>
+        </ul>
+    </div>
+    <div style="width: 0; border-left: 2px solid black; height: 100px; margin: 0 20px;"></div>
+    <div style="width: 50%; text-align: center;">
+        <strong>Frontend</strong>
+        <ul>
+            <li>React</li>
+            <li>Redux</li>
+            <li>Bootstrap</li>
+            <li>JavaScript</li>
+            <li>HTML5</li>
+            <li>CSS3</li>
+        </ul>
+    </div>
+</div>
   
 
 </td></tr></table>
